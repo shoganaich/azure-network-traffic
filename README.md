@@ -1,4 +1,3 @@
-
 ![image](https://github.com/shoganaich/azure-osticket/assets/112911007/c82e6ba4-f9f3-4550-9f7d-6db72dee9ec3)
 
 
