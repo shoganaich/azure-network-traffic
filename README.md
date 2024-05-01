@@ -43,6 +43,9 @@ Both virtual machines should be created within the same Virtual Network (VNet).
 ![03](https://github.com/shoganaich/azure-traffic-inspect/assets/112911007/7fd05a16-c0c5-40f0-a91f-e6328d64ad8d)
 ![04](https://github.com/shoganaich/azure-traffic-inspect/assets/112911007/01c2fe50-28df-4a4b-94e8-184eb5dfb914)
 
+> For more detailed documentation on the creation of the virtual machines, you can see here:
+> https://github.com/shoganaich/azure-osticket/wiki/1.-Prerequisites-and-Virtual-Machine-Setup
+
 ### 5. Remote Desktop Connection
 Connect to the Windows VM using Remote Desktop Protocol (RDP).
 
