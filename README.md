@@ -119,3 +119,16 @@ This lab demonstrates network traffic setup and monitoring within an Azure envir
 I highly recommend that you take a deeper dive into this topic by tweaking the network settings, trying out different types of traffic, and utilizing additional monitoring tools. This will not only improve your comprehension of network management and security but also spark your curiosity and drive to explore further.
 
 Thank you for experiencing this lab. If you have questions or would like to explore more advanced scenarios, please reach out through the issues section of this repository or submit pull requests with your suggestions to improve this lab.
+
+<!-- LICENSE -->
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Acknowledgments
+* [osTicket](https://osticket.com/)
+* [Course Carrers](https://coursecareers.com/)
+* [Josh Madakor](https://www.linkedin.com/in/joshmadakor)
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.github.com/shoganaich/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victordccardoso/)
+[![linkedin](https://img.shields.io/badge/telegram-fbfcf8?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/shoganaich)
